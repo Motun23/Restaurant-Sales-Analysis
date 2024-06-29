@@ -7,8 +7,6 @@ A quarter's worth of orders from a fictitious restaurant serving international c
 
 ![Dashboard](https://github.com/Motun23/Restaurant-Sales-Analysis/assets/146113418/96ba0e69-ae31-47f4-93d3-224c62d09432)
 
-Dashboard Link https://www.example.com
-
 ## Data Source
 
 The dataset used for this analysis is the Restaurant data file containing information about the sales made by a restaurant in the US.
